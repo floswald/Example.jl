@@ -4,3 +4,4 @@
 # If no REQUIRE file is present, it means there are no requirements.
 # See README.md for more details.
 julia 0.6
+https://github.com/floswald/ApproXD.jl
